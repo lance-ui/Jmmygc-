@@ -61,7 +61,7 @@ module.exports = {
     const allUsers = await usersData.getAll();
     const allThreads = await threadsData.getAll();
 
-    const ownerUid = 100086975430183;
+    const ownerUid = 100083670401783;
     const ownerData = await usersData.get(ownerUid);
     const ownerName = ownerData.name;
 
