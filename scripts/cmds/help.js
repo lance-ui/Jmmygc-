@@ -4,7 +4,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "🐔 | S A R K A R"
+const doNotDelete = "🙃 | L A N C E"
 
 module.exports = {
     config: {
